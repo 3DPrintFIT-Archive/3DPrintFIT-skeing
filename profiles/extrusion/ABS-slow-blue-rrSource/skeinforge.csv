@@ -1,6 +1,6 @@
 Format is tab separated skeinforge settings.
 _Name                          	Value
-WindowPosition	755+135
+WindowPosition	417+65
 Open File for Skeinforge	/media/psf/Home/POI/RepRap/PrusaMendel/metric-prusa-lm8uu/x-end-idler.stl
 analyze	False
 craft	True
