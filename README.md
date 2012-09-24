@@ -1,4 +1,5 @@
 3DPrintFIT-skeing
 =================
 
-Skeinforge profiles for 
+Skeinforge profiles for RepRap printer PrusaMendel #2.
+
