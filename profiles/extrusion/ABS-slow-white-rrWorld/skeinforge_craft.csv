@@ -28,7 +28,7 @@ lash	False
 lift	False
 limit	False
 mill	False
-multiply	False
+multiply	True
 oozebane	False
 outset	False
 preface	False
@@ -45,4 +45,4 @@ tower	False
 unpause	False
 whittle	False
 widen	False
-wipe	True
+wipe	False
