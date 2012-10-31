@@ -11,7 +11,7 @@ cleave	False
 clip	False
 coil	False
 comb	False
-cool	True
+cool	False
 dimension	False
 drill	False
 dwindle	False
@@ -28,7 +28,7 @@ lash	False
 lift	False
 limit	False
 mill	False
-multiply	False
+multiply	True
 oozebane	False
 outset	False
 preface	False

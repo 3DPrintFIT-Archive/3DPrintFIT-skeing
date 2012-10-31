@@ -32,14 +32,14 @@ multiply	False
 oozebane	False
 outset	False
 preface	False
-raft	False
+raft	True
 scale	False
 skin	False
 skirt	False
 smooth	False
 speed	False
 splodge	False
-stretch	True
+stretch	False
 temperature	False
 tower	False
 unpause	False
