@@ -1,6 +1,6 @@
 Format is tab separated skeinforge settings.
 _Name                          	Value
-WindowPosition	417+65
+WindowPosition	286+53
 Open File for Skeinforge	/home/marek/Desktop/door-stopper_dekanat_333.stl
 analyze	False
 craft	True
