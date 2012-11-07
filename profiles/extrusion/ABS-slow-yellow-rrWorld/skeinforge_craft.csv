@@ -28,11 +28,11 @@ lash	False
 lift	False
 limit	False
 mill	False
-multiply	False
+multiply	True
 oozebane	False
 outset	False
 preface	False
-raft	True
+raft	False
 scale	False
 skin	False
 skirt	False
