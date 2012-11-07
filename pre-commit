@@ -11,7 +11,7 @@ for FILE in `git diff --cached --name-only`; do
 	if [ "`basename $FILE`" == "multiply.csv" ]; then
 		grep -q "^Number of Columns (integer):$(echo -ne \\t)1$" "$FILE"
 		if [ $? != 0 ]; then
-			echo "Too many coumns in $FILE" 1>&2
+			echo "Too many columns in $FILE" 1>&2
 			ex=1
 		fi
 		grep -q "^Number of Rows (integer):$(echo -ne \\t)1$" "$FILE"
