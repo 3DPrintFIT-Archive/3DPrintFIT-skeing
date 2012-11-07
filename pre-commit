@@ -9,16 +9,13 @@ ex=0;
 
 for FILE in `git diff --cached --name-only`; do
 	if [ "`basename $FILE`" == "multiply.csv" ]; then
-		grep -q "^Number of Columns (integer):$(echo -ne \\t)1$" "$FILE"
-		if [ $? != 0 ]; then
-			echo "Too many coumns in $FILE" 1>&2
-			ex=1
-		fi
-		grep -q "^Number of Rows (integer):$(echo -ne \\t)1$" "$FILE"
-		if [ $? != 0 ]; then
-			echo "Too many rows in $FILE" 1>&2
-			ex=1
-		fi
+		for WHAT in {Columns,Rows}; do
+			grep -q "^Number of $WHAT (integer):$(echo -ne \\t)1$" "$FILE"
+			if [ $? != 0 ]; then
+				echo "Too many $WHAT in $FILE" 1>&2
+				ex=1
+			fi
+		done
 	fi
 done
 
