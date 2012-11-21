@@ -2,7 +2,7 @@ Format is tab separated fill settings.
 _Name                          	Value
 WindowPosition	700+0
 Open File for Fill	
-Activate Fill	True
+Activate Fill	False
 Diaphragm Period (layers):	100
 Diaphragm Thickness (layers):	0
 Extra Shells on Alternating Solid Layer (layers):	2

@@ -8,7 +8,7 @@ carve	False
 chamber	False
 chop	False
 cleave	False
-clip	False
+clip	True
 coil	False
 comb	False
 cool	False
@@ -28,7 +28,7 @@ lash	False
 lift	False
 limit	False
 mill	False
-multiply	True
+multiply	False
 oozebane	False
 outset	False
 preface	False

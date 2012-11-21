@@ -4,7 +4,7 @@ WindowPosition	700+0
 Open File for Speed	
 Activate Speed	True
 Add Flow Rate:	True
-Bridge Feed Rate Multiplier (ratio):	1.0
+Bridge Feed Rate Multiplier (ratio):	1.2
 Bridge Flow Rate Multiplier (ratio):	1.0
 Duty Cyle at Beginning (portion):	1.0
 Duty Cyle at Ending (portion):	0.0
