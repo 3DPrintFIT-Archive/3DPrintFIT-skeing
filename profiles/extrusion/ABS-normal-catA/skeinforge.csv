@@ -1,7 +1,7 @@
 Format is tab separated skeinforge settings.
 _Name                          	Value
 WindowPosition	660+38
-Open File for Skeinforge	/media/psf/Home/POI/RepRap/PrusaMendel/metric-prusa-lm8uu/prusa-plate-1.stl
+Open File for Skeinforge	/home/robot/Downloads/Extra_Printable_Companion_Cube.stl
 analyze	False
 craft	True
 help	False

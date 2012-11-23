@@ -8,7 +8,7 @@ carve	False
 chamber	False
 chop	False
 cleave	False
-clip	False
+clip	True
 coil	False
 comb	False
 cool	False
@@ -37,7 +37,7 @@ scale	False
 skin	False
 skirt	False
 smooth	False
-speed	True
+speed	False
 splodge	False
 stretch	False
 temperature	False
