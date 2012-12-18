@@ -1,0 +1,10 @@
+Format is tab separated statistic settings.
+_Name                          	Value
+WindowPosition	700+0
+Activate Statistic	True
+Machine Time ($/hour):	1.0
+Material ($/kg):	700.0
+Density (kg/m3):	1045.0
+Open File to Generate Statistics for	/media/psf/Home/RepRap/objects/Thingiverse/Automatic Transmission Model/scaled/transmission_plate1_export.gcode
+Print Statistics	True
+Save Statistics	True
