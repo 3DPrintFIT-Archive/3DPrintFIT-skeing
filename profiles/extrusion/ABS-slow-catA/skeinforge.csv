@@ -1,6 +1,6 @@
 Format is tab separated skeinforge settings.
 _Name                          	Value
-WindowPosition	660+38
+WindowPosition	389+56
 Open File for Skeinforge	/home/robot/Downloads/Extra_Printable_Companion_Cube.stl
 analyze	False
 craft	True

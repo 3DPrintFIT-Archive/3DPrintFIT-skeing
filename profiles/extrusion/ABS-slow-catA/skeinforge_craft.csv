@@ -4,7 +4,7 @@ WindowPosition	600+0
 Open File for Craft	
 alteration	False
 bottom	False
-carve	True
+carve	False
 chamber	False
 chop	False
 cleave	False
@@ -37,7 +37,7 @@ scale	False
 skin	False
 skirt	False
 smooth	False
-speed	False
+speed	True
 splodge	False
 stretch	False
 temperature	False

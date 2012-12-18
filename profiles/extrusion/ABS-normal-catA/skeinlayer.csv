@@ -10,12 +10,12 @@ Draw Arrows	True
 Go Around Extruder Off Travel	False
 Layer (index):	65
 Layer Extra Span (integer):	0
-Line (index):	0
+Line (index):	292
 Display Line	True
 View Move	False
 Scale (pixels per millimeter):	7.5
-Screen Horizontal Inset (pixels):	78
-Screen Vertical Inset (pixels):	175
+Screen Horizontal Inset (pixels):	143
+Screen Vertical Inset (pixels):	142
 Show Gcode	True
 Show Position	True
 Width of Extrusion Thread (pixels):	3
