@@ -3,6 +3,7 @@ _Name                          	Value
 WindowPosition	700+0
 Open File for Skirt	
 Activate Skirt	True
+Base Shells (integer)	1
 Convex:	True
 Gap over Perimeter Width (ratio):	3.0
 Layers To (index):	1

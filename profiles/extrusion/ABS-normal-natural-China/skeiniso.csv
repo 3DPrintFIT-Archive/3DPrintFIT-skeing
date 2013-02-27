@@ -1,8 +1,8 @@
 Format is tab separated skeiniso settings.
 _Name                          	Value
 WindowPosition	700+0
-Open File for Skeiniso	/media/psf/Home/RepRap/zakazky/Vicka Josef Tomsej/1_Vicko_fixed_export.gcode
-Activate Skeiniso	True
+Open File for Skeiniso	/media/psf/Home/RepRap/objects/Thingiverse/Automatic Transmission Model/scaled/transmission_plate3_export.gcode
+Activate Skeiniso	False
 Frame List
 Animation Line Quickening (ratio):	1.0
 Animation Slide Show Rate (layers/second):	2.0
@@ -14,15 +14,15 @@ From the Bottom	False
 From the Top	True
 Draw Arrows	False
 Go Around Extruder Off Travel	False
-Layer (index):	10
+Layer (index):	0
 Layer Extra Span (integer):	912345678
-Line (index):	0
+Line (index):	663
 Display Line	True
 View Move	False
 View Rotate	False
 Number of Fill Bottom Layers (integer):	1
 Number of Fill Top Layers (integer):	1
-Scale (pixels per millimeter):	3.75
+Scale (pixels per millimeter):	15.0
 Screen Horizontal Inset (pixels):	226
 Screen Vertical Inset (pixels):	296
 Show Gcode	True

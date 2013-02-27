@@ -5,8 +5,8 @@ Open File for Analyze
 clairvoyance	False
 comment	False
 interpret	False
-skeiniso	True
+skeiniso	False
 skeinlayer	False
-statistic	False
+statistic	True
 synopsis	False
 vectorwrite	False

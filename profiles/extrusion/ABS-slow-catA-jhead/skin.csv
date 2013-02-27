@@ -5,6 +5,7 @@ Open File for Skin
 Activate Skin	False
 Horizontal Infill Divisions (integer):	2
 Horizontal Perimeter Divisions (integer):	1
-Vertical Divisions (integer):	2
+Vertical Infill Divisions (integer):	2
+Vertical Perimeter Divisions (integer):	2
 Hop When Extruding Infill	False
 Layers From (index):	1
