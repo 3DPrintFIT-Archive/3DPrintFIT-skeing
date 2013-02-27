@@ -8,7 +8,7 @@
 ex=0;
 
 for FILE in `git diff --cached --name-only`; do
-	if [ "`basename $FILE`" == "multiply.csv" ]; then
+	if [ "`basename $FILE`" == "multiply.csv" ] && [ -e $FILE ]; then
 		for WHAT in {Columns,Rows}; do
 			grep -q "^Number of $WHAT (integer):$(echo -ne \\t)1$" "$FILE"
 			if [ $? != 0 ]; then
