@@ -37,10 +37,10 @@ scale	False
 skin	False
 skirt	False
 smooth	False
-speed	True
+speed	False
 splodge	False
 stretch	False
-temperature	False
+temperature	True
 tower	False
 unpause	False
 whittle	False
