@@ -1,0 +1,9 @@
+Format is tab separated skeinforge settings.
+_Name                          	Value
+WindowPosition	1078+426
+Open File for Skeinforge	/media/psf/Home/RepRap/objects/Thingiverse/Android/Android_arm_with_joint.stl
+analyze	False
+craft	True
+help	False
+meta	False
+profile	False

@@ -1,9 +1,0 @@
-Format is tab separated skeinforge settings.
-_Name                          	Value
-WindowPosition	620+24
-Open File for Skeinforge	/media/psf/Home/RepRap/objects/Thingiverse/Automatic Transmission Model/scaled/transmission_plate3_export.gcode
-analyze	False
-craft	True
-help	False
-meta	False
-profile	False

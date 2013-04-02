@@ -1,0 +1,9 @@
+Format is tab separated skeinforge settings.
+_Name                          	Value
+WindowPosition	1202+135
+Open File for Skeinforge	/media/psf/Home/Desktop/wade-big.stl
+analyze	False
+craft	True
+help	False
+meta	False
+profile	False
