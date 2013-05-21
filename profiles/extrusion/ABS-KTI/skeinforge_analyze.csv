@@ -1,6 +1,6 @@
 Format is tab separated skeinforge analyze settings.
 _Name                          	Value
-WindowPosition	600+0
+WindowPosition	410+24
 Open File for Analyze	/media/psf/Home/Downloads/week01_export.gcode
 clairvoyance	False
 comment	False

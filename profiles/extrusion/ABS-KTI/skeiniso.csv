@@ -1,7 +1,7 @@
 Format is tab separated skeiniso settings.
 _Name                          	Value
 WindowPosition	700+0
-Open File for Skeiniso	/media/psf/Home/RepRap/objects/Thingiverse/Automatic Transmission Model/scaled/transmission_plate3_export.gcode
+Open File for Skeiniso	/media/psf/Home/Downloads/mudjug_shorted_version_for_reprap_export.gcode
 Activate Skeiniso	False
 Frame List
 Animation Line Quickening (ratio):	1.0
