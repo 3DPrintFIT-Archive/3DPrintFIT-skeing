@@ -1,16 +1,16 @@
 Format is tab separated skeinlayer settings.
 _Name                          	Value
 WindowPosition	576+502
-Open File for Skeinlayer	/media/psf/Home/RepRap/zakazky/Natalie Peterkova/print_ready/tycka_plate_export.gcode
+Open File for Skeinlayer	/media/psf/Home/RepRap/objects/Thingiverse/iPhone 5 Gear Case with Geneva Mechanism/plate_case_export.gcode
 Activate Skeinlayer	True
 Frame List
 Animation Line Quickening (ratio):	1.0
 Animation Slide Show Rate (layers/second):	2.0
 Draw Arrows	True
 Go Around Extruder Off Travel	False
-Layer (index):	13
+Layer (index):	36
 Layer Extra Span (integer):	0
-Line (index):	429
+Line (index):	0
 Display Line	True
 View Move	False
 Scale (pixels per millimeter):	15.0
