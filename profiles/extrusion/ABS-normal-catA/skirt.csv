@@ -5,5 +5,5 @@ Open File for Skirt
 Activate Skirt	True
 Base Shells (integer)	1
 Convex:	True
-Gap over Perimeter Width (ratio):	3.0
+Gap over Perimeter Width (ratio):	1.5
 Layers To (index):	1
