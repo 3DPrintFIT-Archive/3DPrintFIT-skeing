@@ -2,9 +2,9 @@ Format is tab separated statistic settings.
 _Name                          	Value
 WindowPosition	700+0
 Activate Statistic	True
-Machine Time ($/hour):	0.5
-Material ($/kg):	22.0
+Machine Time ($/hour):	2.0
+Material ($/kg):	500.0
 Density (kg/m3):	930.0
-Open File to Generate Statistics for	/media/psf/Home/RepRap/objects/Thingiverse/Koch_SnowflakeTwistRound_export.gcode
+Open File to Generate Statistics for	/media/psf/Home/RepRap/objects/Thingiverse/Android/Android_color_plate.gcode
 Print Statistics	True
 Save Statistics	True

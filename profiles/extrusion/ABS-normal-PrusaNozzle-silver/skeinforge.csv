@@ -1,6 +1,6 @@
 Format is tab separated skeinforge settings.
 _Name                          	Value
-WindowPosition	544+26
+WindowPosition	836+61
 Open File for Skeinforge	/usr/local/share/Printrun/test.stl
 analyze	False
 craft	True

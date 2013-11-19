@@ -6,7 +6,7 @@ clairvoyance	False
 comment	False
 interpret	False
 skeiniso	False
-skeinlayer	True
-statistic	False
+skeinlayer	False
+statistic	True
 synopsis	False
 vectorwrite	False

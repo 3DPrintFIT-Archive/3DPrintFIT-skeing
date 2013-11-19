@@ -4,8 +4,8 @@ WindowPosition	600+0
 Open File for Craft	
 alteration	False
 bottom	False
-carve	True
-chamber	False
+carve	False
+chamber	True
 chop	False
 cleave	False
 clip	False

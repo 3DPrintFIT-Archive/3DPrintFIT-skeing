@@ -5,7 +5,7 @@ Open File for Craft
 alteration	False
 bottom	False
 carve	False
-chamber	True
+chamber	False
 chop	False
 cleave	False
 clip	False
@@ -28,7 +28,7 @@ lash	False
 lift	False
 limit	False
 mill	False
-multiply	False
+multiply	True
 oozebane	False
 outset	False
 preface	False

@@ -5,6 +5,6 @@ Activate Statistic	True
 Machine Time ($/hour):	0.5
 Material ($/kg):	22.0
 Density (kg/m3):	930.0
-Open File to Generate Statistics for	/media/psf/Home/RepRap/objects/Thingiverse/Koch_SnowflakeTwistRound_export.gcode
+Open File to Generate Statistics for	/media/psf/Home/Downloads/week03_export.gcode
 Print Statistics	True
 Save Statistics	True
