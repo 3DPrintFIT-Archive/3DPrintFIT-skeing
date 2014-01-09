@@ -1,6 +1,10 @@
 Format is tab separated skeinforge settings.
 _Name                          	Value
+<<<<<<< HEAD
 WindowPosition	620+24
+=======
+WindowPosition	810+28
+>>>>>>> e88cc98a7bdb7bd5f9664944e82c99b94e155c34
 Open File for Skeinforge	/media/psf/Home/Downloads/Lamp_Opaque.stl
 analyze	False
 craft	True

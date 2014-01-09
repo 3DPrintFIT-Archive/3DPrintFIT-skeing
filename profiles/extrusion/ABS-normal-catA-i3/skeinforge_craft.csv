@@ -3,7 +3,11 @@ _Name                          	Value
 WindowPosition	600+0
 Open File for Craft	
 alteration	False
+<<<<<<< HEAD
 bottom	True
+=======
+bottom	False
+>>>>>>> e88cc98a7bdb7bd5f9664944e82c99b94e155c34
 carve	False
 chamber	False
 chop	False
@@ -32,7 +36,7 @@ multiply	False
 oozebane	False
 outset	False
 preface	False
-raft	False
+raft	True
 scale	False
 skin	False
 skirt	False
