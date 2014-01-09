@@ -1,6 +1,6 @@
 Format is tab separated skeinforge settings.
 _Name                          	Value
-WindowPosition	836+61
+WindowPosition	620+24
 Open File for Skeinforge	/media/psf/Home/Vyvoj/OpenSCAD/door stopper/door-stopper_dekanat_333.stl
 analyze	False
 craft	True
